@@ -1,0 +1,71 @@
+def path_prime():
+    print " "
+    print "For generations, your clan, the Sentries of the Southern Village have safeguarded the Great Tree."
+    print "People from all over the kingdom came to receive healing from the tree's sap."
+    print "Tragedy has struck; raiders attacked the village, hoping to use the tree for themselves."
+    print "The tree was scorched and deformed by flaming projectiles and torches."
+    print "Numerous Sentries lost their lives, many of them your friends and loved ones."
+    print "Since then, the Great Tree's healing properties have waned, and its sap turned bitter."
+    print "All over the kingdom people grow sick with a new disease brought by the barbarians."
+    print "The kingdom's medics and priests are unable to cure the disease, and need the Great Tree. "
+    print "All attempts to heal the tree were in vain."
+    print "The greatest mystics and most talented alchemists were powerless to remedy the damage."
+    print "Legend tells of a healing water, hidden away in a forgotten temple in the northernmost portion of the kingdom."
+    print "Only it can restore the tree to its former glory."
+    print "You are a young prodigy among the Sentries."
+    print "You have the respect and admiration of the village for your bravery, and come from a great line of warriors."
+    print "The task has fallen to you!"
+    print "the Sentries have also fallen victim to this great plague, and so you must make the trek north, and save your home!"
+
+def path_prime_2():
+    print " "
+    print " "
+
+    print "You are sitting in your room."
+    print "It has been many months since the last raider attack."
+    print "The leader of the Sentries called a meeting last week, and it was decided,"
+    print "that you would undertake the great task to seek out the lost Temple."
+    print "You've donned your family Armor, said farewell to your friends, and must say goodbye to your mother."
+    print "She calls to you, and you heed her call. You find her lying in bed, the sickness present in her face."
+
+    print " "
+
+    print "MOTHER: There you are my child. For centuries, our clan has safeguarded the Great Tree."
+    print "We have ensured that pilgrims from across the realm may benefit from its healing properties."
+    print "But I, and all the Sentries, have failed in our duty."
+    print "Your training is complete. I see you've donned the Sentry's armor. It suits you."
+    print "Now, you must choose your weapon."
+    print "The wilds are fraught with dangers. Go over to the chest, at the end of my bed."
+    print "Now, choose, my child. What shall safegaurd you, on your mission?"
+    print " "
+    print " "
+
+
+def path_1_a(): #this will print out path1 story
+    print " "
+    print "MOTHER: So, the blade. You always excelled in combat training. May it serve you well."
+    print "        It is called Frostbreaker. It's a little worn, but has protected our clan for generations."
+def path_1_1():
+    print " "
+    print "MOTHER: Yes, your archery skills are unmatched. The dagger you hold belonged to your grandfather, the old rogue!"
+    print "        Ha, if only he could see you now."
+    print "        I see you like the stealth approach, eh? Take care not to let those sticky fingers get you into trouble!"
+def path_1_2():
+    print " "
+    print "MOTHER: Yes, of course. Your mind has always been your strongest asset."
+    print "        That staff was taken from a powerful sorceror, and the tome was your grandmother's."
+    print "        Your grandfather stole it from the Arcane University for her. Ha! If they could see you now."
+    print "        Take care child, that you do not become drunk on the power of the arcane;"
+    print "        you are skilled, but you toy with powerful magics."
+    print "        Take care not to shout. A mage's voice is their greatest weapon."
+
+def path_prime_3():
+    print " "
+    print "Your MOTHER takes a moment to take in the sight of you: a tear comes to her eye."
+    print "Though she may not admit it, she fears she may not see you again."
+    print " "
+    print "MOTHER: Now, go my child. Fly fast and true, to the north."
+    print "        Your first challenge will be passing through the forest. Take care not to wander off the path."
+    print "        Dangerous creatures reside there. Some of them savage things. Others more, intelligent."
+    print "        I love you."
+    print " "
